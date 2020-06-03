@@ -11,6 +11,9 @@ Offrire tre modalità di acquisizione della matrice:
 1. Tramite lettura da un file (il cui nome è inserito dall'utente);
 1. Tramite generazione casuale automatica (**non** garantendo quindi che il sudoku sia valido).
 
+### Esempi
+// TODO
+
 ## Risorse aggiuntive
 Nella repository, all'interno della cartella `src` è contenuto il file `main.cpp` con del codice
 pre-impostato. Sono già incluse le librerie indispensabili per lo svolgimento dell'esercizio.
